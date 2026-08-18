@@ -104,7 +104,7 @@ Goodbye!
 
 ---
 **Video**
-_notice how the numbers are randomly generated every time_
+_(notice how the numbers are randomly generated every time)_
 
 https://github.com/user-attachments/assets/c6e8ce87-660f-4fb7-aedc-31ce9313266d
 
