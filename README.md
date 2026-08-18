@@ -67,28 +67,6 @@ public class StatsArray {
 		System.out.println("The average is    : " + average);
 		System.out.println("Number of A's     : " + countA);
 		System.out.print("Goodbye!");
-		
-/** SAMPLE OUTPUT
- * 
-Exam Scores
------------
-[0] 59
-[1] 69
-[2] 84
-[3] 75
-[4] 90
-[5] 86
-[6] 97
-[7] 53
-[8] 14
-[9] 17
-The minimum value : 14
-The maximum value : 97
-The total is      : 644
-The average is    : 64.4
-Number of A's     : 2
-Goodbye!
- */
 	}
 }
 ```
