@@ -1,8 +1,3 @@
-# 🎲 StatsArray Project
-
-This repository creates an array of 10 integers filled with random exam scores (0–100), then calculates and displays the total, average, minimum, maximum, and how many scores qualify as an A (90–100 inclusive).
-
----
 
 ## 🟣 StatsArray.java
 
