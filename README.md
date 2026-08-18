@@ -16,13 +16,6 @@ This program creates an array of integers named `scores` with a size of 10. It f
  *  Rory Lendzion
 /** CSC110
 /** 6/25/2026
- * This program creates an array of integers named scores with a size of 10.
- * The program then first fills the scores array with random numbers in the range of 0-100.
- * It then calculates the total of all values in the array, the average, finds the largest value, smallest value,
- * and how many numbers are between 100 and 90 inclusive.
- * Inputs are numbers from the random number generator.
- * The outputs are the exam scores, the minimum value, the maximum, the total, the average, and the number of A's.
- */
 import java.util.Random;
 public class StatsArray {
 	public static void main(String[] args) {
